@@ -78,3 +78,8 @@ print(f"el valor incrementado de {firts_numb}es{++firts_numb}")
 print(f"el valor decremento de {firts_numb}es{--firts_numb}")
 #operador de potenciacion (**)
 print(f"el valor poten de {firts_numb}**(second_numb)es{firts_numb**second_numb}")
+#   OJO ABREVIATURAS DE EXPRECION O OPERACION 
+
+
+
+
